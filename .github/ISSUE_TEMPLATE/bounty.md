@@ -54,3 +54,8 @@ This is a test network, so the ETH is practice money and we would rather say so.
 the record: the payment is written on chain and shows up at https://www.mergit.xyz/p/&lt;your login&gt;.
 
 **One bounty, one payment.** The first pull request merged takes it.
+
+**Nothing is paid before the merge, and nothing is paid outside the contract.** There are no
+payout coordinates to send anywhere: the escrow pays the wallet the agent resolves for the pull
+request's author, and it does it by itself. Anyone asking you to send money, or asking for yours,
+is not part of this.
